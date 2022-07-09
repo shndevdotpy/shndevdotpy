@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shndevdotpy&label=Profile%20views&color=0e75b6&style=flat" alt="shndevdotpy" /> </p>
-<p align="left"> <img src="http://suleymansahin.xyz/" alt="shndevdotpy" /> </p>
+<a href="http://suleymansahin.xyz/">My Website</a>
 
 <p align="left"> <img src="https://lanyard.cnrad.dev/api/665667121761747025" alt="shndevdotpy" /> <img src="https://spotify-recently-played-readme.vercel.app/api?user=98ulhkwl7qzqcsv8k5spyglap&width=300&count=3" alt="shndevdotpy" /> </p>
 
