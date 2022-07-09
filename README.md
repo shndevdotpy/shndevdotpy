@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHNDEV</h1>
 <h3 align="center">Jr. Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shndevdotpy&label=Profile%20views&color=0e75b6&style=flat" alt="shndevdotpy" /> </p>
+<p align="left"> <img src="http://suleymansahin.xyz/" alt="shndevdotpy" /> </p>
 
 - 🔭 I’m currently working on [Discord Embed Sender](https://github.com/shndevdotpy/discord-embed-sender)
 
