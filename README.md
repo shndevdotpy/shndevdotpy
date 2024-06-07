@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Süleyman (shndev) Şahin</h1>
 <h3 align="center">A Junior developer from Turkey</h3>
-<p align="left"> <img src="https://lanyard.cnrad.dev/api/665667121761747025" alt="shndevdotpy" />
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=98ulhkwl7qzqcsv8k5spyglap&width=300&count=3" alt="shndevdotpy" /> </p>
+<!--<p align="left"> <img src="https://lanyard.cnrad.dev/api/665667121761747025" alt="shndevdotpy" />
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=98ulhkwl7qzqcsv8k5spyglap&width=300&count=3" alt="shndevdotpy" /> </p>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shndevdotpy&label=Profile%20views&color=b40e0e&style=flat" alt="shndevdotpy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shndev" target="blank"><img src="https://img.shields.io/twitter/follow/shndev?logo=twitter&style=for-the-badge" alt="shndev" /></a> </p>
