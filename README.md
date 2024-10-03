@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [N/A](#)
 
-- 👯 My last project [Simple calculator made with Javascript](https://github.com/shndevdotpy/simple-calculator/)
+- 👯 My last project [Number Guessing Game](https://github.com/shndevdotpy/number-guessing-game)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
