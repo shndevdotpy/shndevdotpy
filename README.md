@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shndev" target="blank"><img src="https://img.shields.io/twitter/follow/shndev?logo=twitter&style=for-the-badge" alt="shndev" /></a> </p>
 
-- 🔭 I’m currently working on [N/A](#)
+- 🔭 I’m currently working on [Chatting App](https://github.com/shndevdotpy/chatting-app/)
 
-- 👯 My last project [Number Guessing Game](https://github.com/shndevdotpy/number-guessing-game)
+- 👯 My last project [Chatting App](https://github.com/shndevdotpy/chatting-app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
