@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Chatting App](https://github.com/shndevdotpy/chatting-app/)
 
-- 👯 My last project [Password Generator](https://github.com/shndevdotpy/password-generator/)
+- 👯 My last project is [Password Generator](https://github.com/shndevdotpy/password-generator/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
